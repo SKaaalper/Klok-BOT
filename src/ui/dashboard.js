@@ -25,7 +25,7 @@ function initDashboard() {
   const banner = grid.set(0, 0, 2, 12, blessed.box, {
     tags: true,
     content:
-      "{center}{bold}Klok BOT{/bold}{/center}\n{center}Github: https://github.com/rpchubs | Telegram: https://t.me/RPC_Hubs{/center}",
+      "{center}{bold}Klok BOT{/bold}{/center}\n{center}Github: https://github.com/SKaaalper | Telegram: https://t.me/KatayanAirdropGofC{/center}",
     border: {
       type: "line",
     },
