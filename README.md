@@ -44,7 +44,7 @@ klokapp-automation/
 
 1️⃣ Open a terminal and clone the repository:
    ```sh
-   git clone https://github.com/rpchubs/Klok-BOT.git
+   git clone https://github.com/Skaaalper/Klok-BOT.git
    cd Klok-BOT
    ```
 
